@@ -10,14 +10,14 @@
     "postinstall": "fumadocs-mdx"
   },
   "dependencies": {
-    "@ai-sdk/react": "^3.0.163",
+    "@ai-sdk/react": "^3.0.285",
     "@openrouter/ai-sdk-provider": "^2.6.0",
     "@paper-design/shaders-react": "^0.0.76",
     "@radix-ui/react-presence": "^1.1.5",
     "@vercel/analytics": "^2.0.1",
     "@vercel/blob": "^2.6.1",
     "@vercel/speed-insights": "^2.0.0",
-    "ai": "^6.0.161",
+    "ai": "^6.0.282",
     "class-variance-authority": "^0.7.1",
     "flexsearch": "^0.8.212",
     "fumadocs-core": "16.7.16",
